@@ -1,4 +1,4 @@
 - 👋 Hey, my name is Tim :)
-- 👀 I’m interested in C++ Programming and Bodybuilding.
+- 👀 I’m interested in programming apps, entrepreneurship and bodybuilding.
 - 🧑‍🎓 I study Computer Science at ETH Zürich.
 - 📫 You can contact me at: tim.eilers@protonmail.com
